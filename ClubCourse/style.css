@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #FFF7EB;
+}
+
+table{
+    table-layout: fixed;
+    word-break: break-all;
+    width: 80%;
+    margin: auto;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+td{
+    border:2px solid #836A50;
+}
